@@ -2,7 +2,7 @@ Hello-World
 ===========
 
 Mi Primer Repositorio
-                        c    MMMMM  
-Hello friends -----oOOOo----( O O )----oOOOo-----!!!
-                               U
+                              MMMMM  
+Hello friends -----oOOOo----o( O O )o----oOOOo-----!!!
+                                U
  I sending my best wishes.                             
